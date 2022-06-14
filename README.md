@@ -16,3 +16,6 @@ Equinox Data: Data from the Seshat Databank (data.seshat.info) is open for free 
 </table>
 
 ### The Seshat team makes our data publicly available in different ways.
+
+#### Cite Us:
+[![DOI](https://zenodo.org/badge/503364954.svg)](https://zenodo.org/badge/latestdoi/503364954)
